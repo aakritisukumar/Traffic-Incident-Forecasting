@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac OS files
+.DS_Store
